@@ -1,0 +1,129 @@
+/* #ash{
+    height: 80px;
+   
+}
+#navbarSupportedContent{
+    z-index: 1px;
+    text-align: center;
+  
+   
+} */
+*{
+    box-sizing: border-box;
+    
+}
+#ash2 a{
+    color: white;
+}
+
+
+/* 
+#ash2 a:hover{
+    border:1px solid white; */
+
+/* #link{
+    color: white;
+    width: 60px;
+}
+#link:hover{
+    border:1px solid white;
+}
+#cart{
+    color: white;
+    font-size: 20px;
+
+}
+#space{
+    margin-left: 5px;
+} */
+#bg{
+    background-color: rgb(29, 29, 31);
+    width: 100%;
+}
+#bg a:hover{
+    color: wheat;
+    text-decoration: underline;
+
+}
+#center{
+  
+    padding-left: 50px;
+   
+}
+#center img:hover{
+    opacity: 0.5;
+}
+#center h4{
+   margin-top: 5px;
+}
+#class{
+    background-color: rgb(238, 212, 163);
+  
+}
+.sign{
+    text-align: center;
+    padding:20px 0px;
+    
+
+}
+.sign p{
+    font-size: 15px;
+    font-family: 'Times New Roman', Times, serif;
+
+}
+.sign p .blue{
+    color:blue;
+    cursor: pointer;
+}
+
+.sign button{
+    font-size: 13px;
+    padding: 5px 80px;
+    border-radius: 10px;
+    background-color: #facc59;
+    cursor: pointer;
+}
+#anc a{
+    color: white;
+}
+
+.country{
+    text-align: center;
+    
+}
+
+.country li {
+    display: inline-flex;
+   list-style-type:none;
+    padding: 8px;
+    color: white;
+    font-size: 12px;
+    cursor: pointer;
+}
+
+.country li:hover{
+        text-decoration: underline;
+}
+#back:hover {
+    background-color: rgb(49, 41, 41);
+}
+
+
+.checked{
+    color: orange;
+}
+
+.column{
+    padding:12px;
+
+    
+}
+.row img:hover{
+        opacity: 0.8;}
+
+
+#sys img{
+    width: 120px;
+    height: 200px;
+}
+
